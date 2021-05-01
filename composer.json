@@ -1,0 +1,13 @@
+{
+    "name": "vinicius/karate",
+    "authors": [
+        {
+            "name": "Vinicius Moraes Sodré",
+            "email": "vni217@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Core\\": "Core/"}
+    },
+    "require": {}
+}
